@@ -17,6 +17,7 @@ For,while, do-while,
 Class :
 - Class should start with Uppercase
 
+--------------
 Methods :
 Method overriding : create more than one method with same name by changinging method arguments.
 
@@ -44,4 +45,14 @@ Access Modifier
 4. Default : Can't use outside Package with inheritance also.
 
 --------------
+Inheritance :
+Note: 
+- Cannot inherit private / static/ Final member of class.
+--------------
+Interface :
+Abstract Class:
+
+--------------
+Exceptions:
+- Run Time Exception : airthmeticException,NullPointerException,
 
