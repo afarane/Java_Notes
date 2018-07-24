@@ -54,5 +54,17 @@ Abstract Class:
 
 --------------
 Exceptions:
-- Run Time Exception : airthmeticException,NullPointerException,
+- Run Time Exception :
+airthmeticException,
+NullPointerException,
+
+- Checked Exceptions :
+FileNotFoundException,
+ArrayIndexOutOfBoundsException
+ClassNotFoundException
+OutOfMemoryError
+InterruptedException
+
+How to Handle Exception? :
+- try catch block
 
