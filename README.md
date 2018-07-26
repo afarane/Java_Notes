@@ -2,6 +2,30 @@ variables: local, static. Instance
 local : Specific to method
 Global variable:
 
+String / StringBuilder / StringBuffer :
+
+	String str = new String("Hello"); // immutable
+	StringBuilder builder = new StringBuilder("Hello");	
+	StringBuffer buffer = new StringBuffer("Hello");
+	
+	str.concat("Hi...");
+	builder.append("Hi..."); // In Single Threaded env . Better in performance compared to buffer
+	buffer.append("Hi..."); // Multiple threading Thread safe 
+	
+	System.out.println(newStr);
+	System.out.println(builder);
+	System.out.println(buffer);
+
+Result --> 
+
+	Hello
+	HelloHi...
+	HelloHi...	
+
+change :
+
+	String newStr = str.concat("Hi...");
+
 Comparing References :
 
 	String str1 = new String ("Hello"); // it is ref variable having address of object
