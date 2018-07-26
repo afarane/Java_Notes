@@ -2,7 +2,31 @@ variables: local, static. Instance
 local : Specific to method
 Global variable:
 
+Comparing References :
 
+	String str1 = new String ("Hello"); // it is ref variable having address of object
+	String str2 = new String ("Hello");
+	
+	if (str1 == str2) { // comparing references
+		System.out.println(true);
+	}else {
+		System.out.println(false);
+	}
+	
+  
+Result --> false
+
+	String str1 = new String ("Hello"); // it is ref variable having address of object
+	String str2 = new String ("Hello"); // it is another ref variable having address of object
+	
+	if (str1.equals(str2)) { // comparing values
+		System.out.println(true);
+	}else {
+		System.out.println(false);
+	}
+  
+Result --> true
+  
 --------------
 DataTypes
 
