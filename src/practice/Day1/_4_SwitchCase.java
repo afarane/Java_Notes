@@ -1,4 +1,4 @@
-package practice.Day1;
+package Day1;
 
 public class _4_SwitchCase {
 

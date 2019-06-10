@@ -1,4 +1,4 @@
-package practice.Day4;
+package Day4;
 
 public class TestTryCatch {
 

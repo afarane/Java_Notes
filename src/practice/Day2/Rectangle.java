@@ -1,4 +1,4 @@
-package practice.Day2;
+package Day2;
 
 public class Rectangle {
 

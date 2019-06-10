@@ -1,4 +1,4 @@
-package practice.Day1;
+package Day1;
 
 public class _7_Loop_DoWhile {
 	
