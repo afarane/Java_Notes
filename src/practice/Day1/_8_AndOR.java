@@ -1,6 +1,6 @@
 package Day1;
 
-public class AndOR {
+public class _8_AndOR {
 
 	public static void main(String[] args) {
 
