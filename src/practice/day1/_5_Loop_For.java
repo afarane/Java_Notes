@@ -7,6 +7,15 @@ public class _5_Loop_For {
 		for (int i = 0; i <= 10; i++) {
 			System.out.println(i);
 		}
+		
+		String[] fruits = {"Apple", "Mango","Orange"};
+		
+		// For each Loop
+		// 1. Forward loop only.
+		for(String fruit : fruits) {
+			System.out.println(fruit);
+			
+		}
 	}
 
 }

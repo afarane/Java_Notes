@@ -16,6 +16,9 @@ public class _3_Condition_If_Else {
 			System.out.println("X i Equal to Y");
 		}
 		
+		int income = 120_000;
+		String className = income > 100_000 ? "First" : "Economy";
+		
 	}
 
 }
