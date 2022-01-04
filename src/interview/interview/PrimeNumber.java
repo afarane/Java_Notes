@@ -1,5 +1,7 @@
 package interview;
 
+import java.math.BigInteger;
+
 public class PrimeNumber {
 
 	public static void main(String[] args) {
@@ -22,6 +24,9 @@ public class PrimeNumber {
 		}else {
 			System.out.println(num + " is Not a Prime number !");
 		}
+		
+		
+
 
 	}
 
