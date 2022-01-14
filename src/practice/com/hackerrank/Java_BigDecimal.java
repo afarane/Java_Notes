@@ -1,7 +1,9 @@
 package com.hackerrank;
 
 import java.math.BigDecimal;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.Scanner;
 
 class Java_BigDecimal{
 

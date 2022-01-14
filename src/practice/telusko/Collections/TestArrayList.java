@@ -1,4 +1,4 @@
-package Day4;
+package telusko.Collections;
 
 import java.util.ArrayList;
 
