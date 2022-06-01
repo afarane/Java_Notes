@@ -1,4 +1,4 @@
-package day1;
+package com.codewithmosh;
 
 public class _1_PrintLine {
 

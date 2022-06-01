@@ -1,4 +1,4 @@
-package Day3;
+package telusko.Collections;
 
 public class Employee implements Office{
 

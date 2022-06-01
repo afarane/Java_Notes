@@ -1,6 +1,6 @@
-package day1;
+package com.codewithmosh;
 
-public class _3_Condition_If_Else {
+public class __Condition_If_Else {
 	
 	public static void main(String[] args) {
 		

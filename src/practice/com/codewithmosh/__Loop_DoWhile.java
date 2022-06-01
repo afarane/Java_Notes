@@ -1,6 +1,6 @@
-package day1;
+package com.codewithmosh;
 
-public class _7_Loop_DoWhile {
+public class __Loop_DoWhile {
 	
 	public static void main(String[] args) {
 		

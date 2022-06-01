@@ -1,6 +1,6 @@
-package day1;
+package com.codewithmosh;
 
-public class _8_AndOR {
+public class __AndOR {
 
 	public static void main(String[] args) {
 

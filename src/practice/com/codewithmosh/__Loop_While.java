@@ -1,8 +1,8 @@
-package day1;
+package com.codewithmosh;
 
 import java.util.Scanner;
 
-public class _6_Loop_While {
+public class __Loop_While {
 
 	public static void main(String[] args) {
 		int x = 1;

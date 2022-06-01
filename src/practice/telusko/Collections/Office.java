@@ -1,4 +1,4 @@
-package Day3;
+package telusko.Collections;
 
 public interface Office {
 	

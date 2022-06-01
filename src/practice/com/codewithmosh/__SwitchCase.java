@@ -1,6 +1,6 @@
-package day1;
+package com.codewithmosh;
 
-public class _4_SwitchCase {
+public class __SwitchCase {
 
 	public static void main(String[] args) {
 

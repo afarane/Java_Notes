@@ -1,4 +1,4 @@
-package javaExceptions;
+package telusko.Collections;
 
 public class TestTryCatch {
 

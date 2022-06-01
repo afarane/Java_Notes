@@ -1,6 +1,6 @@
-package day1;
+package com.codewithmosh;
 
-public class _5_Loop_For {
+public class __Loop_For {
 
 	public static void main(String[] args) {
 
