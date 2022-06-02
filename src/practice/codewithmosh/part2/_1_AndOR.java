@@ -1,6 +1,6 @@
-package com.codewithmosh;
+package codewithmosh.part2;
 
-public class __AndOR {
+public class _1_AndOR {
 
 	public static void main(String[] args) {
 

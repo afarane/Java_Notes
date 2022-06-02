@@ -1,4 +1,6 @@
-package com.codewithmosh;
+package codewithmosh.Project;
+
+import codewithmosh.part2.Console;
 
 public class MortgageCalculator_Main {
 	public static void main(String[] args) {

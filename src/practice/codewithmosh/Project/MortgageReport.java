@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package codewithmosh.Project;
 
 import java.text.NumberFormat;
 

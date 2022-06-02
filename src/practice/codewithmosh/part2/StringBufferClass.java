@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package codewithmosh.part2;
 
 public class StringBufferClass {
 

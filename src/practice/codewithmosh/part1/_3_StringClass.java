@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package codewithmosh.part1;
 
 public class _3_StringClass {
 

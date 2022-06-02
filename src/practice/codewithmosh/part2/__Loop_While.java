@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package codewithmosh.part2;
 
 import java.util.Scanner;
 

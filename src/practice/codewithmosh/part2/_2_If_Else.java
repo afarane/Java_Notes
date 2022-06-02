@@ -1,6 +1,6 @@
-package com.codewithmosh;
+package codewithmosh.part2;
 
-public class __Condition_If_Else {
+public class _2_If_Else {
 	
 	public static void main(String[] args) {
 		
@@ -9,11 +9,11 @@ public class __Condition_If_Else {
 		int y = 20;		
 		
 		if (x>y) {
-			System.out.println("X i Greater than Y");
+			System.out.println("X is Greater than Y");
 		} else if (x<y) {
-			System.out.println("X i Less than Y");
+			System.out.println("X is Less than Y");
 		} else {
-			System.out.println("X i Equal to Y");
+			System.out.println("X is Equal to Y");
 		}
 		
 		int income = 120_000;
