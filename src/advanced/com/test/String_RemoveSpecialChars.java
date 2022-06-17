@@ -1,6 +1,6 @@
-package com.StringManupulation;
+package com.test;
 
-public class RemoveSpecialChars {
+public class String_RemoveSpecialChars {
 
 	public static void main(String[] args) {
 		

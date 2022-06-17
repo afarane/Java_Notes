@@ -1,6 +1,6 @@
-package com.StringManupulation;
+package com.test;
 
-public class ReverseString {
+public class String_ReverseString {
 
 	public static void main(String[] args) {
 		String s = "I am Abhijeet";

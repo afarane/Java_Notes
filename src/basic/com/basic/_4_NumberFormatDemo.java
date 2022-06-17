@@ -1,4 +1,4 @@
-package java.part1;
+package com.basic;
 import java.text.NumberFormat;
 
 public class _4_NumberFormatDemo {

@@ -1,8 +1,8 @@
-package com.integer.manupulation;
+package com.test;
 
 import java.util.Scanner;
 
-public class ReverseInteger {
+public class Integer_ReverseInteger {
 
 	public static void main(String[] args) {
 
