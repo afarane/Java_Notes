@@ -1,4 +1,4 @@
-package com.test;
+package com.java.strings;
 
 public class String_RemoveSpecialChars {
 

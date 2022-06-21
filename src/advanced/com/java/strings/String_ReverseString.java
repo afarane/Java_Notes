@@ -1,11 +1,11 @@
-package com.test;
+package com.java.strings;
 
-public class reverseString {
+public class String_ReverseString {
 
 	public static void main(String[] args) {
 
 		// Q : Reverse Following String
-		String myString = "Hello ITechOasis";
+		String myString = "Hello Abhijeet";
 
 		// Method 1 : Using For Loop
 		String revString = "";
