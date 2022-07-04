@@ -7,7 +7,7 @@ public class TestArrayList {
 	public static void main(String[] args) {
 		ArrayList<String> arrList = new ArrayList<>();
 		arrList.add("Hello");
-		arrList.add("ITechOasis");
+		arrList.add("Abhijeet");
 
 		
 		for (String myItem : arrList) {

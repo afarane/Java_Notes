@@ -18,8 +18,8 @@ public class ReverseInt {
 		int myInt1 = 12345; // Reverse this int
 
 		// Method 2 : StringBuffer
-		// StringBuffer sb = new StringBuffer(String.valueOf(myInt1)).reverse();
-		// System.out.println(sb);
+		 StringBuffer sb = new StringBuffer(String.valueOf(myInt1)).reverse();
+		 System.out.println(sb);
 
 		System.out.println(new StringBuffer(String.valueOf(myInt1)).reverse());
 
