@@ -1,6 +1,6 @@
 package com.basic;
 
-public class _7_If_Else {
+public class _07_If_Else {
 	
 	public static void main(String[] args) {
 		

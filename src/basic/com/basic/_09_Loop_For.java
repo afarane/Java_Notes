@@ -1,6 +1,6 @@
 package com.basic;
 
-public class _9_Loop_For {
+public class _09_Loop_For {
 
 	public static void main(String[] args) {
 

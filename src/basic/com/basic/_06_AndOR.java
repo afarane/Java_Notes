@@ -1,6 +1,6 @@
 package com.basic;
 
-public class _6_AndOR {
+public class _06_AndOR {
 
 	public static void main(String[] args) {
 

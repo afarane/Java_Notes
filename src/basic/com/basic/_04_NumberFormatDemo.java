@@ -1,7 +1,7 @@
 package com.basic;
 import java.text.NumberFormat;
 
-public class _4_NumberFormatDemo {
+public class _04_NumberFormatDemo {
 
 	public static void main(String[] args) {
 	

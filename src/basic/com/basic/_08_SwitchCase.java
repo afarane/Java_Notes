@@ -1,6 +1,6 @@
 package com.basic;
 
-public class _8_SwitchCase {
+public class _08_SwitchCase {
 
 	public static void main(String[] args) {
 		
