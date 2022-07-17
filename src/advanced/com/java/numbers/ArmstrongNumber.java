@@ -7,14 +7,14 @@ public class ArmstrongNumber {
 		int myInt = 153;
 		int temNum = myInt;
 
-		int s, sum = 0;
+		int r, sum = 0;
 	
 
 		while (myInt > 0) {
 
-			s = myInt % 10;
+			r = myInt % 10;
 
-			sum = sum + s * s * s;
+			sum = sum + r * r * r;
 
 			myInt = myInt / 10;
 

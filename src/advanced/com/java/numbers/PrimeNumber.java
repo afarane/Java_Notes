@@ -18,8 +18,18 @@ public class PrimeNumber {
 				break;
 			}
 		}
-
 		
+		
+		// Reduce time complexicity by sq rt 
+		int c = 2;
+
+		while(c*c<= num) {
+			if (num%c == 0){
+				isPrime = false;
+				break;
+			}
+			c += 1;
+		}
 
 	
 		
