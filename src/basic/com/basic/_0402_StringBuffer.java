@@ -1,6 +1,6 @@
 package com.basic;
 
-public class _0402_StringBufferClass {
+public class _0402_StringBuffer {
 
 	public static void main(String[] args) {
 

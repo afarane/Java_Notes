@@ -3,11 +3,11 @@ package com.basic;
 public class _08_SwitchCase {
 
 	public static void main(String[] args) {
-		
+
 		String role = "admin";
-		
-		switch(role) {
-		
+
+		switch (role) {
+
 		case "admin":
 			System.out.println("You're an admin");
 			break;
@@ -16,9 +16,8 @@ public class _08_SwitchCase {
 			break;
 		default:
 			System.out.println("You're a guest");
-			
+
 		}
-	
 
 		char myChar = 'O';
 
@@ -42,6 +41,8 @@ public class _08_SwitchCase {
 			System.out.println(myChar + " is Not a Vowel");
 			break;
 		}
+
+		
 
 	}
 

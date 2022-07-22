@@ -20,10 +20,10 @@ public class SumOfSubArray {
 		for (int i = 0; i < n; i++) {
 			currSum = arr[i];
 
-			for (int j = i + 1; j <= n; j++) {
+			for (int j = i + 1; j < n; j++) {
 
 				if (currSum == s) {
-					a.add(i+1);
+					a.add(i);
 					a.add(j);
 					return a;
 

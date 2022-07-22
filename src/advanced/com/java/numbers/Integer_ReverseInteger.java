@@ -13,6 +13,7 @@ public class Integer_ReverseInteger {
 		int num = 12345;
 		
 		// Using StringBuffer
+		//System.out.println(new StringBuffer(String.valueOf(num)).reverse());
 		System.out.println(new StringBuffer(String.valueOf(num)).reverse());
 		
 		int rev = 0;
