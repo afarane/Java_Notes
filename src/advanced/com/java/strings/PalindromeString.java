@@ -4,7 +4,7 @@ public class PalindromeString {
 
 	public static void main(String[] args) {
 
-		String str = "";
+		String str = "ABCBA";
 
 		System.out.println(isPalindrome(str));
 
