@@ -12,10 +12,7 @@ public class Remove_HtmlTags {
 		
 			System.out.println(html.replaceAll("\\<.*?>",""));
 			
-		
-			
-		
-		
+
 
 	}
 	

@@ -29,7 +29,12 @@ public class PalindromeString {
 
 		}
 		return true;
+		
+		
+		
 
 	}
+	
+	
 
 }

@@ -3,7 +3,7 @@ package com.java.strings;
 public class Count_Occurance_Of_Each_Character {
 
 	public static void main(String[] args) {
-		String name = "Abhijeet";
+		String name = "Automation";
 
 		for (int i = 0; i < name.length(); i++) {
 			int count = 0;
@@ -15,7 +15,7 @@ public class Count_Occurance_Of_Each_Character {
 					count++;
 				}
 			}
-			System.out.println("Char  " + c + " : No of Occurance : " + count);
+			System.out.println("Count of character " + c + " : " + count);
 		}
 
 	}

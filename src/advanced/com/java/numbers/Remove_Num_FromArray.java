@@ -24,7 +24,7 @@ public class Remove_Num_FromArray {
 				myNums.add(nums[i]);
 
 			}
-
+			
 		}
 
 		System.out.println(Arrays.toString(myNums.toArray()));

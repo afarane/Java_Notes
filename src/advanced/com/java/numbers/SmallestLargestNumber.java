@@ -6,7 +6,7 @@ public class SmallestLargestNumber {
 
 	public static void main(String[] args) {
 
-		int numbers[] = { -10, 2, 44, -55 };
+		int numbers[] = {-20, 10, 20, -4, 100 };
 
 		int largestNumber = numbers[0];
 		int smallestNumber = numbers[0];
@@ -27,9 +27,9 @@ public class SmallestLargestNumber {
 		System.out.println(max);
 		System.out.println(min);
 
-		System.out.println("Array is : " + Arrays.toString(numbers));
-		System.out.println("Largest Number is : " + largestNumber);
-		System.out.println("Smallest Number is : " + smallestNumber);
+		System.out.println(" Array is : " + Arrays.toString(numbers));
+		System.out.println(" Largest Number is : " + largestNumber);
+		System.out.println(" Smallest Number is : " + smallestNumber);
 
 	}
 

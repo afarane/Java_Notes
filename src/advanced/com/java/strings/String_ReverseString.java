@@ -5,7 +5,7 @@ public class String_ReverseString {
 	public static void main(String[] args) {
 
 		// Q : Reverse Following String
-		String myString = "Hello Abhijeet";
+		String myString = "Hello World";
 
 		// Method 1 : Using For Loop
 		String revString = "";
@@ -26,6 +26,4 @@ public class String_ReverseString {
 	}
 
 }
-
-
 

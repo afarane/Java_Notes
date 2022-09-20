@@ -10,6 +10,7 @@ public class ArmstrongNumber {
 		int r, sum = 0;
 	
 
+		
 		while (myInt > 0) {
 
 			r = myInt % 10;
