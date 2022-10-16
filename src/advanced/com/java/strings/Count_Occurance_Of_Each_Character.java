@@ -1,22 +1,30 @@
 package com.java.strings;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Count_Occurance_Of_Each_Character {
 
 	public static void main(String[] args) {
-		String name = "Automation";
+		String name = "Automation is good";
 
-		for (int i = 0; i < name.length(); i++) {
-			int count = 0;
-			char c = name.charAt(i);
+		Map<Character, Integer> charMap = new HashMap<Character, Integer>();
 
-			for (int j = 0; j < name.length(); j++) {
+		char strArr[] = name.toCharArray();
 
-				if (c == name.charAt(j)) {
-					count++;
+		for (char c : strArr) {
+
+			if (!Character.isSpaceChar(c)) {
+
+				if (charMap.containsKey(c)) {
+					charMap.put(c, charMap.get(c) + 1);
+				} else {
+					charMap.put(c, 1);
 				}
 			}
-			System.out.println("Count of character " + c + " : " + count);
 		}
+
+		System.out.println(name + " : " + charMap);
 
 	}
 

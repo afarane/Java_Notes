@@ -6,13 +6,12 @@ import java.util.Iterator;
 public class ArrayListConcept {
 
 	public static void main(String[] args) {
-
+ 
 		ArrayList<String> myArrayList = new ArrayList<String>();
 
-		myArrayList.add("Abhijeet");
-
-		myArrayList.add("Advait");
-		myArrayList.add("Vidya");
+		myArrayList.add("Ajay");
+		myArrayList.add("Suresh");
+		myArrayList.add("Mansi");
 
 		// Using Java 8
 		System.out.println("1. ---- forEach ----");
