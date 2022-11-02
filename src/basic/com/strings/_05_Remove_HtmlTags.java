@@ -1,7 +1,7 @@
-package com.java.strings;
+package com.strings;
 
 
-public class Remove_HtmlTags {
+public class _05_Remove_HtmlTags {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

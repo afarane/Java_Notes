@@ -1,6 +1,6 @@
 package com.java.numbers;
 
-public class ReplaceString {
+public class _02_ReplaceString {
 	
 	public static void main(String[] args) {
 		

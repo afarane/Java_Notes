@@ -1,6 +1,6 @@
-package com.java.strings;
+package com.strings;
 
-public class String_RemoveSpecialChars {
+public class _04_String_RemoveSpecialChars {
 
 	public static void main(String[] args) {
 		

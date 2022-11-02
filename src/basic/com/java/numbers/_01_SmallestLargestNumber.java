@@ -2,7 +2,7 @@ package com.java.numbers;
 
 import java.util.Arrays;
 
-public class SmallestLargestNumber {
+public class _01_SmallestLargestNumber {
 
 	public static void main(String[] args) {
 

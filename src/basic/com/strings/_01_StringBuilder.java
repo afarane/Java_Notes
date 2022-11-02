@@ -1,6 +1,6 @@
-package com.basic;
+package com.strings;
 
-public class _0401_StringBuilder {
+public class _01_StringBuilder {
 
 	public static void main(String[] args) {
 	
@@ -18,8 +18,7 @@ public class _0401_StringBuilder {
 		
 		System.out.println(sb);
 		
-		//ok
-		
+	
 
 	}
 

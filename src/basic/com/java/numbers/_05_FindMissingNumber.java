@@ -1,6 +1,6 @@
 package com.java.numbers;
 
-public class FindMissingNumber {
+public class _05_FindMissingNumber {
 
 	public static void main(String[] args) {
 		

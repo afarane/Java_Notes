@@ -1,6 +1,6 @@
-package com.basic;
+package com.strings;
 
-public class _0402_StringBuffer {
+public class _02_StringBuffer {
 
 	public static void main(String[] args) {
 
