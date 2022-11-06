@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-class Java_BigDecimal{
+class A01_Java_BigDecimal{
 
     public static void main(String []args){
         //Input

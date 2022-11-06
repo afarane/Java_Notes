@@ -1,6 +1,6 @@
 package com.java.numbers;
 
-public class SwapIntegers {
+public class _09_SwapIntegers {
 
 	public static void main(String[] args) {
 		

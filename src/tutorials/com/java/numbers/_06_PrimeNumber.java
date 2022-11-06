@@ -2,7 +2,7 @@ package com.java.numbers;
 
 import java.util.Scanner;
 
-public class PrimeNumber {
+public class _06_PrimeNumber {
 
 	public static void main(String[] args) {
 
@@ -40,6 +40,7 @@ public class PrimeNumber {
 		}
 		
 		
+		// See advance method using BidInteger.
 
 
 	}

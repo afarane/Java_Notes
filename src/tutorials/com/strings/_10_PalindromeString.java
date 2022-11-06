@@ -1,6 +1,6 @@
 package com.strings;
 
-public class PalindromeString {
+public class _10_PalindromeString {
 
 	public static void main(String[] args) {
 

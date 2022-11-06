@@ -2,7 +2,7 @@ package com.strings;
 
 import java.util.Scanner;
 
-public class CaseCheck {
+public class _08_Character_CaseCheck {
 
 	public static void main(String[] args) {
 

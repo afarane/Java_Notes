@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Java_String_Tokens {
+public class A05_Java_String_Tokens {
 
 	
 	public static void main(String[] args) {

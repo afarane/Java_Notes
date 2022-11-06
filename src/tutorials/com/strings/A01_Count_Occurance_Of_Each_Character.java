@@ -3,7 +3,7 @@ package com.strings;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Count_Occurance_Of_Each_Character {
+public class A01_Count_Occurance_Of_Each_Character {
 
 	public static void main(String[] args) {
 		String name = "Automation is good";

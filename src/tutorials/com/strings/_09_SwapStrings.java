@@ -1,6 +1,6 @@
 package com.strings;
 
-public class SwapStrings {
+public class _09_SwapStrings {
 	
 	public static void main(String[] args) {
 		
@@ -21,7 +21,6 @@ public class SwapStrings {
 		
 		// --------- Third Method ---------
 		String h = "Hello";
-		
 		String w = "World";
 		
 		System.out.println("Before Swappping");

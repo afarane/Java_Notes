@@ -1,6 +1,6 @@
 package com.java.numbers;
 
-public class ArmstrongNumber {
+public class _07_ArmstrongNumber {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package com.strings;
 
 import java.util.Iterator;
 
-public class StartPattern {
+public class A03_StartPattern {
 
 	public static void main(String[] args) {
 

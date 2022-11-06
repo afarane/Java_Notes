@@ -2,7 +2,7 @@ package com.strings;
 
 import java.util.Arrays;
 
-public class String_basics {
+public class _07_String_Manipulations {
 	
 	public static void main(String[] args) {
 		

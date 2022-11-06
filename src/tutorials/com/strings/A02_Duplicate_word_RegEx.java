@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Duplicate_word_RegEx {
+public class A02_Duplicate_word_RegEx {
 
     public static void main(String[] args) {
 
