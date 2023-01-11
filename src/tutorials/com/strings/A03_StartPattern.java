@@ -6,6 +6,14 @@ public class A03_StartPattern {
 
 	public static void main(String[] args) {
 
+		pattern1(5);
+		System.out.println("          ");
+		pattern2(5);
+		System.out.println("          ");
+		pattern3(5);
+		System.out.println("          ");
+		pattern4(5);
+		System.out.println("          ");
 		pattern5(5);
 	}
 
