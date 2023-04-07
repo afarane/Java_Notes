@@ -1,6 +1,6 @@
 package LeetCode;
 
-public class LeetCode_1006 {
+public class LeetCode_1006_factorial {
 
 	// https://leetcode.com/problems/clumsy-factorial/description/
 

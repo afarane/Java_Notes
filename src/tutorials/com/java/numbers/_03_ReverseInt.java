@@ -12,6 +12,7 @@ public class _03_ReverseInt {
 			revInt = revInt * 10 + myInt % 10;
 			myInt = myInt / 10;
 		}
+		
 
 		System.out.println(revInt);
 
@@ -20,6 +21,7 @@ public class _03_ReverseInt {
 		// Method 2 : StringBuffer
 
 		System.out.println(new StringBuffer(String.valueOf(myInt1)).reverse());
+		
 
 	}
 

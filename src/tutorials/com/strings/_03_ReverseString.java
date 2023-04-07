@@ -1,4 +1,4 @@
-package com.strings;
+ package com.strings;
 
 import java.util.Scanner;
 import java.util.Stack;

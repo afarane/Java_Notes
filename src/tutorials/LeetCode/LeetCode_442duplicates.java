@@ -3,7 +3,7 @@ package LeetCode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LeetCode_442 {
+public class LeetCode_442duplicates {
 
 	public static void main(String[] args) {
 		// https://leetcode.com/problems/find-all-duplicates-in-an-array/

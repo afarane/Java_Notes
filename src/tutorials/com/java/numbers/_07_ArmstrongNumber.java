@@ -8,7 +8,6 @@ public class _07_ArmstrongNumber {
 		int temNum = myInt;
 
 		int r, sum = 0;
-	
 
 		
 		while (myInt > 0) {

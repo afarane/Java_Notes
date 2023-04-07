@@ -1,4 +1,4 @@
-package com.basic;
+package com.java.basic;
 
 public class TextBox extends UIControl {
 

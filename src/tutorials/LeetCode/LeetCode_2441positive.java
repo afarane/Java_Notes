@@ -3,7 +3,7 @@ package LeetCode;
 import java.util.HashSet;
 import java.util.Set;
 
-public class LeetCode_2441 {
+public class LeetCode_2441positive {
 
 	public static void main(String[] args) {
 	 // https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
