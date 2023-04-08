@@ -1,4 +1,4 @@
-package Hackerrank;
+package hackerrank.java.basic;
 
 import java.io.BufferedReader;
 import java.io.IOException;

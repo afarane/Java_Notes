@@ -1,4 +1,4 @@
-package Hackerrank;
+package hackerrank.java.basic;
 import java.util.Scanner;
 
 public class ScannerSolution {
